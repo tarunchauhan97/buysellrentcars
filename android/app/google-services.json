@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "787230091620",
+    "project_id": "buysellrentcars",
+    "storage_bucket": "buysellrentcars.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787230091620:android:641b212ef1d26ed2b73271",
+        "android_client_info": {
+          "package_name": "com.tarun.sellbuyrentcars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787230091620-vbmpf52v6f183t293a8eq51s4nirn33e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tarun.sellbuyrentcars",
+            "certificate_hash": "39b7935a8df4b5e76276acdfddffbdab58e3bca0"
+          }
+        },
+        {
+          "client_id": "787230091620-8asn38oaml84s0k1sgjvevjvnv61q1ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABmcXjwVDOyc3zm2FiGVIEYAe64ZNXRys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787230091620-8asn38oaml84s0k1sgjvevjvnv61q1ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
