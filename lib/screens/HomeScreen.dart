@@ -298,6 +298,7 @@ class _HomeScreenState extends State<HomeScreen> {
             return Card(
               clipBehavior: Clip.antiAlias,
               child: Column(
+                crossAxisAlignment: CrossAxisAlignment.stretch,
                 children: [
                   ListTile(
                     leading: GestureDetector(
@@ -580,7 +581,7 @@ class _HomeScreenState extends State<HomeScreen> {
             ),
             body: Center(
               child: Container(
-                width: _screenWidth * .5,
+                width: _screenWidth * .8,
                 child: showCarsList(),
               ),
             ),

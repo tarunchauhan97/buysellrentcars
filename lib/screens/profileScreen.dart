@@ -432,7 +432,7 @@ bool _isLoading = true;
       ),
       body: Center(
         child: Container(
-          width: _screenWidth * .5,
+          width: _screenWidth * .8,
           child: showCarsList(),
         ),
       ),
