@@ -61,7 +61,7 @@ class _LoginState extends State<Login> {
             ),
             Container(
               width: MediaQuery.of(context).size.width * 0.5,
-              height: MediaQuery.of(context).size.height * 0.08,
+              height: MediaQuery.of(context).size.height * 0.06,
               child: ElevatedButton(
                 onPressed: () {
                   _emailController.text.isNotEmpty && _passwordController.text.isNotEmpty

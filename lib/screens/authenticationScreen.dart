@@ -31,7 +31,7 @@ class _AuthenticationScreenState extends State<AuthenticationScreen> {
               ),
             ),
             title: Text(
-              "iCar",
+              "buyrentsellcars",
               style: TextStyle(fontSize: 60.0, color: Colors.white, fontFamily: "Lobster"),
             ),
             centerTitle: true,

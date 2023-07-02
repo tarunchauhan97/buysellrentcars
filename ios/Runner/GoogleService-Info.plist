@@ -15,7 +15,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.example.icarcodingCafe</string>
+	<string>com.example.buyrentsellcars</string>
 	<key>PROJECT_ID</key>
 	<string>buysellrentcars</string>
 	<key>STORAGE_BUCKET</key>

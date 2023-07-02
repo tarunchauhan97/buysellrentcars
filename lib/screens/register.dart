@@ -91,6 +91,7 @@ class _RegisterState extends State<Register> {
             SizedBox(height: 10),
             Container(
               width: MediaQuery.of(context).size.width * 0.5,
+              height: MediaQuery.of(context).size.height * 0.06,
               child: ElevatedButton(
                 onPressed: () {
                   _register();

@@ -72,6 +72,6 @@ class DefaultFirebaseOptions {
     storageBucket: 'buysellrentcars.appspot.com',
     androidClientId: '787230091620-vbmpf52v6f183t293a8eq51s4nirn33e.apps.googleusercontent.com',
     iosClientId: '787230091620-67vp99t7id2niqj7kjig707qv6gdgtj6.apps.googleusercontent.com',
-    iosBundleId: 'com.example.icarcodingCafe',
+    iosBundleId: 'com.example.buyrentsellcars',
   );
 }
